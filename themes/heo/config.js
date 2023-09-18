@@ -10,9 +10,9 @@ const CONFIG = {
   ],
 
   // 英雄区(首页顶部大卡)
-  HERO_TITLE_1: '创想之都',
-  HERO_TITLE_2: '欢迎游玩！',
-  HERO_TITLE_3: '官网innovaage.cn',
+  HERO_TITLE_1: '创想时代开发组',
+  HERO_TITLE_2: '诚邀您的加入...!',
+  HERO_TITLE_3: '访问创想时代官网innovaage.cn',
   HERO_TITLE_4: '美丽都市',
   HERO_TITLE_5: '创想来造！',
   HERO_TITLE_LINK: '/tag/图片欣赏',
