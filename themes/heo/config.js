@@ -5,8 +5,8 @@ const CONFIG = {
 
   // 首页顶部通知条滚动内容，如不需要可以留空 []
   NOTICE_BAR: [
-    { title: '欢迎来到创想之都网！点击这里访问创想时代官网！', url: 'https://www.innovaage.com' },
-    { title: '创想之都官网正在施工中，点击访问施工者的网站——', url: 'gua.innovaage.cn' }
+    { title: '访问创想时代官网（施工中）', url: 'https://www.innovaage.cn' },
+    { title: '访问浦仙的个人官网', url: 'https://gua.innovaage.cn' }
   ],
 
   // 英雄区(首页顶部大卡)
