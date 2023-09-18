@@ -6,7 +6,7 @@ const CONFIG = {
   // 首页顶部通知条滚动内容，如不需要可以留空 []
   NOTICE_BAR: [
     { title: '欢迎来到创想之都网！点击这里访问创想时代官网！', url: 'https://www.innovaage.com' },
-    { title: '', url: '' }
+    { title: '创想之都官网正在施工中，点击访问施工者的网站——', url: 'gua.innovaage.cn' }
   ],
 
   // 英雄区(首页顶部大卡)
@@ -67,7 +67,7 @@ const CONFIG = {
   WIDGET_LATEST_POSTS: true, // 显示最新文章卡
   WIDGET_ANALYTICS: false, // 显示统计卡
   WIDGET_TO_TOP: true,
-  WIDGET_TO_COMMENT: true, // 跳到评论区
+  WIDGET_TO_COMMENT: false, // 跳到评论区
   WIDGET_DARK_MODE: true, // 夜间模式
   WIDGET_TOC: true // 移动端悬浮目录
 }
